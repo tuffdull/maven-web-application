@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://107.23.217.149:8081/repository/tona-release/</url>
+	      <url>http://18.218.83.159:8081/repository/fiti-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://107.23.217.149:8081/repository/tona-snapshot/</url>
+	      <url>http://18.218.83.159:8081/repository/fiti-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
