@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.218.83.159:8081/repository/fiti-release/</url>
+	      <url>http://3.15.170.64:8081/repository/kiki-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.218.83.159:8081/repository/fiti-snapshot/</url>
+	      <url>http://3.15.170.64:8081/repository/kiki-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
