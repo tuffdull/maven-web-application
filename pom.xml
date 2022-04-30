@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.140.253.197/:8081/repository/dada-release/</url>
+	      <url>http://3.12.129.83:8081/repository/koko-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.140.253.197:8081/repository/dada-snapshot/</url>
+	      <url>http://3.12.129.83:8081/repository/koko-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
