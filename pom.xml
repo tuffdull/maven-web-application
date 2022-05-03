@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.12.129.83:8081/repository/koko-release/</url>
+	      <url>http://54.146.180.243:8081/repository/olu-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.12.129.83:8081/repository/koko-snapshot/</url>
+	      <url>http://54.146.180.243:8081/repository/olu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
